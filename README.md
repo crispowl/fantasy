@@ -27,3 +27,5 @@ api_token = pushover.net app api token
 league_name = name of league, scraped if empty
 
 errors = # of errors from previous processes (for skipping/logging)
+
+This is a test
